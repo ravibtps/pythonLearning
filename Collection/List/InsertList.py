@@ -1,6 +1,6 @@
 # fruits = ["apple", "banana", "cherry"]
 # fruits.insert(2, "watermelon")
-# fruits.insert(0, "laddu")
+# fruits.insert(0, "coconuts")
 # print(fruits)
 #
 # fruits.insert(3,"Mango")
@@ -32,7 +32,3 @@ print(thislist)
 thislist = ["apple", "banana", "cherry"]
 thislist.clear()
 print("List cleared "+ str(len(thislist)))
-#
-#
-#
-#
