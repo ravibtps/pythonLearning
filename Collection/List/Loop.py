@@ -19,7 +19,3 @@ while i < len(citylist):
     i = i + 1
 print()
 # **********************************************************************#
-# List Comprehension  A short hand for loop that will print all items in a list:
-thislist = ["apple", "banana", "cherry"]
-[print(x) for x in thislist]
-

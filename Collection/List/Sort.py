@@ -8,14 +8,14 @@ CustomizeSort.sort(reverse=True)
 print(CustomizeSort)
 print()
 # *****************************************************************************#
+
 def sortfunc(n):
     return abs(n - 50)
-
-
 CustomizeSort = [100, 50, 65, 82, 23]
 CustomizeSort.sort(key=sortfunc)
 print(CustomizeSort)
 print()
+
 # *****************************************************************************#
 # case-insensitive sort
 case_insensitive_sort = ["banana", "Orange", "Kiwi", "cherry"]
